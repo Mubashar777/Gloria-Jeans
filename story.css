@@ -1,0 +1,229 @@
+body{
+    margin: 0%;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  display: flex;
+    font-family: Gotham,sans-serif!important;
+    background-color:black;
+    overflow: hidden;
+    cursor: pointer;
+ 
+}
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float:left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:small;
+    font-family:Verdana, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+
+  
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .pnav .icon {
+    display: none;
+  }
+ 
+
+
+
+  /* Create a top navigation bar with a black background color  */
+.pnav {
+    margin-top: 30px;
+    background-color: white;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .pnav a {
+    float: left;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .pnav a:hover {
+  
+    color:orange;
+  }
+  
+  /* Create a right-aligned (split) link inside the navigation bar */
+  .pnav a.split {
+    float: right;
+    
+    color:black;
+    
+  }
+  .pnav a.split:hover{
+    color: orange;
+  }
+  .login{
+    float: right;
+    padding-left: 920px;
+  }
+  .login a:hover{
+    color: orange;
+  
+  }
+  .topnav a:hover{
+    color: orange;
+  }
+  
+
+
+
+  .story{
+    display: flex;
+   
+  }
+.p1{
+    margin-left: 100px;
+    padding-right: 100px;
+   
+}
+.p1 p{
+    font-size:larger;
+    color: rgba(0, 0, 0, 0.685);
+}
+.story img{
+    margin-top: 50px;
+}
+.p1 h1{
+    font-family: Montserrat,sans-serif;
+}
+.story2{
+    display: flex;
+}
+.p2{
+    margin-top: 60px;
+    padding-left: 100px;
+}
+.p2 p{
+    font-size:larger;
+    color: rgba(0, 0, 0, 0.685);
+    margin-top: 50px;
+}
+
+.p2 h1{
+    font-family: Montserrat,sans-serif;
+}
+.story3{
+    display: flex;
+}
+.story3img{
+    margin-left: 153px;
+    margin-top: 50px;
+}
+.p3{
+    margin-left: 100px;
+    padding-right: 50px;
+}
+.p3 p{
+    font-size:larger;
+    color: rgba(0, 0, 0, 0.685);
+    margin-top: 50px;
+}
+.p3 h1{
+    font-family: Montserrat,sans-serif;
+}
+.story4{
+    display: flex;
+    background-color: #e965932a;
+    padding: 50px 50px 50px;
+    padding-left: 0%;
+}
+.p4{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.p4 p{
+    font-size:larger;
+    color: rgba(0, 0, 0, 0.685);
+    margin-top: 50px;
+}
+.p4 h1{
+    font-family: Montserrat,sans-serif;
+}
+
+
+
+
+
+
+
+.bottom{
+    display: flex;
+    padding: 15px 15px 15px 15px;
+    background-color: orange;
+    color: white;
+  }
+  
+  
+  
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 30px 30px 30px 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  .btn{
+   
+    border-left: black;
+    padding-left: 30px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+  
+  .botoom{
+    display: flex;
+  margin: 0px 0px 0px 0px;
+  background-color: rgba(0, 0, 0, 0.836);
+  color: white;
+  }
+  
+  
+  .about{
+    padding-left: 300px;
+    margin-top: 50px;
+    
+  }
+  
+  .support{
+    padding-left: 50px;
+  }
+  
+  .icon{
+    display: flex;
+    border-top: 2px solid white;
+  
+    color: black;
+    
+  }
+  .login{
+    float: right;
+    padding-left: 920px;
+  }
+  .login a:hover{
+    color: orange;
+  
+  }
+  .topnav a:hover{
+    color: orange;
+  }
+  
+  
